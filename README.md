@@ -1,3 +1,3 @@
 # Decodificador-Desafio
 
-Resolução do decoficador 
+Resolução do decodificador 
